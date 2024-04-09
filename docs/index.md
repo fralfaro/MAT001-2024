@@ -15,7 +15,7 @@ hide:
 - title: Toolkit
   content: Herramientas básicas.
   image: https://cdn-icons-png.flaticon.com/512/82/82121.png
-  url: lectures/basic_tools/bt_intro
+  url: lectures/toolkit/bt_intro
 
 - title: Manipulación Datos
   content: Aprender Numpy y Pandas.
@@ -25,7 +25,7 @@ hide:
 - title: Visualización
   content: Aprender matplotlib y Seaborn.
   image: https://cdn0.iconfinder.com/data/icons/cryptocurrency-63/64/Trend-analysis-chart-inspection-data-512.png
-  url: lectures/data_manipulation/vi_intro
+  url: lectures/visualization/vi_intro
 
 - title: Machine Learning
   content: Aprender Sklearn.
