@@ -12,27 +12,29 @@ básicas como Data Scientist (ocupando el lenguaje de programación Python).
 
 ## Requisitos de entrada
 
-* Utiliza/comprende conceptos básicos de Cálculo-Algebra, Probabilidad-Estadística y Optimización.
-* Utiliza/comprende conceptos básicos de Python.
+* Fundamentos de Cálculo y Álgebra.
+* Conceptos básicos de Probabilidad y Estadística.
+* Conocimientos en Optimización.
+* Familiaridad con el lenguaje de programación Python.
 
 ## Contenidos temáticos
 
-* Toolkit básico 
-* Computación científica
-* Manipulación de datos
-* Visualización
-* Machine Learning
+El curso se organiza en torno a los siguientes temas principales:
+
+* **Toolkit Básico**: Introducción a las herramientas esenciales para el análisis de datos.
+* **Manipulación de Datos**: Técnicas para la manipulación eficiente de conjuntos de datos.
+* **Visualización**: Métodos para visualizar datos de manera efectiva.
+* **Machine Learning**: Introducción a los conceptos básicos y aplicaciones del aprendizaje automático.
 
 ## Recursos para el aprendizaje
 
-* **Texto Guía**:  
-  * **Python Data Science Handbook** - Jake VanderPlas
-  
+1. **Texto Guía**:  
+   * **Python Data Science Handbook** - Jake VanderPlas
 
-* **Complementaria/Opcional**:  
-  * **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** - Aurélien Géron
-  * **Data Science from Scratch** - Joel Grus
-  * **Python for Data Analysis** - Wes McKinney
+2. **Complementaria/Opcional**:  
+   * **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** - Aurélien Géron
+   * **Data Science from Scratch** - Joel Grus
+   * **Python for Data Analysis** - Wes McKinney
 
 
 ## Evaluación
