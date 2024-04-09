@@ -7,8 +7,10 @@
 
 ## Descripción de la Asignatura
 
-El estudiante adquiere competencias/destrezas
-básicas como Data Scientist (ocupando el lenguaje de programación Python).
+La asignatura tiene como objetivo proporcionar a
+los estudiantes las competencias y destrezas básicas necesarias
+para desempeñarse como Data Scientist utilizando el lenguaje de 
+programación Python.
 
 ## Requisitos de entrada
 
